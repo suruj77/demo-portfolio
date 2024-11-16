@@ -1,0 +1,173 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 80px;
+}
+.suruj{
+    font-size: 40px;
+}
+.list{
+    display: flex;
+    align-items: center;
+    
+}
+.pb{
+    list-style: none;
+    margin-right: 25px;
+    color: gray;
+}
+.bb{
+    padding: 10px;
+    background-color: #FD6E0A;
+    border: none;
+    color: white;
+}
+.butt{
+    display: flex;
+    margin-left: 80px;
+    align-items: center;
+}
+.bio{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.hi{
+    color: gray;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.ahmed{
+    font-size: 55px;
+    margin-top: -13px;
+    font-weight: bold;
+}
+.shot{
+    color: gray;
+    font-weight: bold;
+    margin-top: -23px
+}
+.fast-but{
+    display: flex;
+    align-items: center;
+    padding: 4px;
+    background-color: #FD6E0A;
+    color: white;
+    border: none;
+    
+}
+.back{
+    margin-top: -194px;
+    margin-left: 717px;
+    height: 418px;
+    width: 820px;
+    position: relative;
+}
+.font{
+    position: absolute;
+    height: 546px;
+    width: 450px;
+    margin-top: -550px;
+    margin-left: 940px;
+
+}
+.about{
+    border: 1px solid #FFF8F3;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: #FFF8F3;  
+}
+.head{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+.details{
+    display: flex;
+    justify-content: center;
+    
+}
+.nm{
+    padding: 60px;
+  
+}
+.sa{
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.details-2{
+    display: flex;
+    justify-content: center;
+    margin-top: -100px;
+    margin-left: 35px;
+    margin-bottom: 60px;
+}
+.des{
+    margin-bottom: -40px;
+}
+.what{
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 70px
+}
+.work{
+    font-size: 25px;
+    font-weight: bold;
+}
+.descrip{
+    color: gray;
+    font-weight: bold;
+}
+.card-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    padding: 0px 40px;
+    margin-top: 50px;
+}
+.first-card{
+    height: 307px;
+    width: 207px;
+    padding: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+.logo-name{
+    font-size: 20px;
+    font-weight: bold;
+}
+.logo-descrip{
+    color: grey;
+    font-weight: bold;
+}
+.sumary{
+    text-align: center;
+    margin-top: 68px;
+    font-size: 30px;
+}
+.devolopar{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
+.master{
+    color: gray;
+}
+.my{
+    font-weight: bold;
+    color: gray;
+}
+.bn{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    background-color: #FD6E0A;
+    border: none;
+    padding: 5px 10px;  
+    color: white;    
+}
